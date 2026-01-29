@@ -1,0 +1,5 @@
+{
+  "name": "StyleFusion AI",
+  "description": "An advanced AI image transformation engine capable of merging identity and artistic style using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
